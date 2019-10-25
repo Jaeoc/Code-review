@@ -1,14 +1,14 @@
 # Code-review
-Every second Friday we meet to discuss how our code can be become more efficient, reproducible and user-friendly. This is a page to collect useful links and provide a place for sharing code.
+Every second Friday from 11 to 12 we meet to discuss how our code can be become more efficient, reproducible and user-friendly. This is a page to collect useful links and provide a place for sharing code. This repository is private so that you can upload your code without concern that it will be public.
 
 ## Next session
 - Friday 8/11 : [Unit-testing](https://en.wikipedia.org/wiki/Unit_testing)
  >Edoardo will present how unit-testing works in the [statcheck](http://statcheck.io/) package, providing us a framework for a general discussion about unit-testing in R.
 
 ## Potential upcoming topics
-- Check if your code is reproducible and understandable
 - How to use the Lisa cluster and supercomputers
 - ggplot2
+- Submitting a paper and want to first check if your code is reproducible and understandable? Let us know and we'll plan for a session.
 
 
 ## Learning the basics of R
