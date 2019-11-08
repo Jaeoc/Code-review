@@ -3,9 +3,14 @@ Every second Friday from 11 to 12 we meet at Tilburg's MTO department to discuss
 
 There is a private [OSF repository](https://osf.io/mr7a6/) so that you can upload your code without concern that it will be public. Just click on the link and request access. If you do not have an OSF account you will have to create one first.
 
-## Next session
+## Materials previous sessions
+-...
 - Friday 8/11 : [Unit-testing](https://en.wikipedia.org/wiki/Unit_testing)
- >Edoardo will present how unit-testing works in the [statcheck](http://statcheck.io/) package, providing us a framework for a general discussion about unit-testing in R.
+ >Edoardo presented how unit-testing works in the [statcheck](http://statcheck.io/) package, providing us a framework for a general discussion about unit-testing in R.
+
+## Next session
+- Friday 22/11 : 
+
 
 ## Potential upcoming topics
 - How to use the Lisa cluster and supercomputers
