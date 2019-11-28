@@ -7,7 +7,7 @@ There is a private [OSF repository](https://osf.io/mr7a6/) so that you can uploa
 - Friday 06/12 : Code Review
 > Bring your in-progress code to get suggestions on how to improve it, production-ready code for peer review, or just yourself to look at other people's code and be inspired or help.
 
-## previous sessions
+## Previous sessions
 - Monday 25/11 : Code reviewing
 - Friday 8/11 : [Unit-testing](https://en.wikipedia.org/wiki/Unit_testing)
  >Edoardo presented how unit-testing works in the [statcheck](http://statcheck.io/) package, providing us a framework for a general discussion about unit-testing in R.
@@ -15,6 +15,7 @@ There is a private [OSF repository](https://osf.io/mr7a6/) so that you can uploa
 
 ## Potential upcoming topics
 - How to use the Lisa cluster and supercomputers
+- A bit more advanced Git
 - ggplot2
 - Submitting a paper and want to first check if your code is reproducible and understandable? Let us know and we'll plan for a session.
 
