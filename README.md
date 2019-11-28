@@ -4,7 +4,7 @@ Every second Friday from 11 to 12 we meet at Tilburg's MTO department to discuss
 There is a private [OSF repository](https://osf.io/mr7a6/) so that you can upload your code without concern that it will be public. Just click on the link and request access. If you do not have an OSF account you will have to create one first.
 
 ## Next session
-- Friday 22/11 : Code review
+- Friday 06/12 : Code Review
 > Bring your in-progress code to get suggestions on how to improve it, production-ready code for peer review, or just yourself to look at other people's code and be inspired or help.
 
 ## previous sessions
