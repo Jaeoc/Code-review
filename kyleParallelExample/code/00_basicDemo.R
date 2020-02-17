@@ -19,7 +19,7 @@ out <- doRep(1, conds = conds)
 ## Run 'nReps' replications in a loop:
 out1 <- list()
 for(rp in 1 : nReps)
-    out1[[rp]] <- doRep(1, conds = conds)
+    out1[[rp]] <- doRep(rp, conds = conds)
 
 ## Run 'nReps' repliations in serial using lapply():
 out2 <- lapply(X = 1 : nReps, FUN = doRep, conds = conds)
