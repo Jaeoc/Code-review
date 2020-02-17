@@ -4,11 +4,12 @@ Every second Friday from 11 to 12 we meet at Tilburg's MTO department to discuss
 There is a private [OSF repository](https://osf.io/mr7a6/) so that you can upload your code without concern that it will be public. Just click on the link and request access. If you do not have an OSF account you will have to create one first.
 
 ## Next session
-- Friday 7/2: Collective code review of Rick's code
-- Monday 17/2: Parallel code in R
-
+- Friday 28/2: Code reviewing
+> Bring your code for discussion/help, or bring yourself to help others/be inspired
 
 ## Previous sessions
+- Monday 17/2: Parallel code in R
+- Friday 7/2: Collective code review of Rick's code
 - Monday 20/1 : Introduction to Git and github
 - Friday 06/12 : Code reviewing
 - Monday 25/11 : Code reviewing
