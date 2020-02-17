@@ -38,9 +38,6 @@ t3 <- system.time(
                      mc.cores = 2)
 )
 
-### NOTE: mclapply() only works on *nix-style operating systems. On Windows, it
-###       will fall back to serial processing.
-
 
 ###--Parallel Processing 2---------------------------------------------------###
 
@@ -57,9 +54,6 @@ t4 <- system.time(
 
 ## Kill the cluster:
 stopCluster(clus)
-
-### NOTE: We need to use this approach on Windows since we can't using forking
-###       to create clusters.
 
 
 ###--Compare Timings---------------------------------------------------------###
